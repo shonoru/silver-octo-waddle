@@ -1,2 +1,2 @@
 # silver-octo-waddle
-Thoughts essays 
+Thought essays
